@@ -1,0 +1,11 @@
+A servomotor (or servo motor) is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
+
+4
+L -4 0 -2.5 0
+R -2.5 1 2.5 -1
+L 2.5 0 4 0
+E 0 0 0 360 1.5 1
+
+2
+-4 0
+4 0
